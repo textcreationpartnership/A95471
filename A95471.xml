@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvvo petitions of the sequestred clergie of England and Wales. One, to the King's most excellent Majestie: the other, to Sir Thomas Fairfax. With the declaration of the generall, and his Councell of Warre thereupon. As also, his Majesties proclamation against intruding into other mens cures, and detaining their tythes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95471</idno>
+            <idno type="STC">Wing T3516</idno>
+            <idno type="STC">Thomason E400_36</idno>
+            <idno type="STC">ESTC R201766</idno>
+            <idno type="EEBO-CITATION">99862266</idno>
+            <idno type="PROQUEST">99862266</idno>
+            <idno type="VID">114419</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95471)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114419)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E400[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvvo petitions of the sequestred clergie of England and Wales. One, to the King's most excellent Majestie: the other, to Sir Thomas Fairfax. With the declaration of the generall, and his Councell of Warre thereupon. As also, his Majesties proclamation against intruding into other mens cures, and detaining their tythes.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>England and Wales. Army. Council.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Royston.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>August 2. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Another edition has Royston's address, and lacks "August 2", in the imprint.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tithes --  England --  Early works to 1800.</term>
+               <term>Attachment and garnishment --  England --  Early works to 1800.</term>
+               <term>Clergy --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114419:1" rendition="simple:additions"/>
+            <p>TVVO PETITIONS OF THE Sequeſtred <hi>Clergie</hi> of <hi>England</hi> and <hi>Wales.</hi>
+            </p>
+            <p>ONE, To the <hi>Kings</hi> moſt excellent <hi>Majeſtie:</hi> THE OTHER, To Sir <hi>THOMAS FAIRFAX.</hi>
+            </p>
+            <p>WITH The Declaration of the <hi>Generall,</hi> and his Councell of Warre thereupon.</p>
+            <p>AS ALSO, His Majeſties Proclamation againſt Intruding into other mens Cures, and detaining their Tythes.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Royſton,</hi> Auguſt 2. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114419:2"/>
+            <floatingText xml:lang="eng" type="petition">
+               <body>
+                  <head>To the Kings moſt Excellent Majeſty.</head>
+                  <head type="sub">The Humble Petition of many thouſands of Your <hi>Majeſties</hi> loyal Subjects, the poore <hi>ſequeſtred Clergy</hi> of <hi>England</hi> and <hi>Wales,</hi>
+                  </head>
+                  <opener>Humbly ſheweth,</opener>
+                  <p>THat whereas your Petitioners have a long time been deſti<g ref="char:EOLhyphen"/>tute of all liveli-hood, by meanes of <hi>ſequeſtration</hi> of their Eſtates and <hi>other loſſes,</hi> and are at preſent driven to extream neceſſities how to provide for themſelves and their families, and the ſeaſon now approching for the receiving the benefits of the <hi>Harveſt</hi> before which time, if ſome charitable courſe be not ta<g ref="char:EOLhyphen"/>ken, they are like to ſtarve or beg another yeare.</p>
+                  <p>May it therefore pleaſe Your moſt Sacred <hi>Majesty</hi> to take our ſad condition into Your Gracious conſideration and care, that ſome courſe may be taken for our ſpeedy reliefe, as may preſerve us alive, and enable us to doe more ſervice in <hi>Gods Church</hi> to Your <hi>Majeſty</hi> and the <hi>Kingdome.</hi>
+                  </p>
+                  <closer>And as in duty bound, we ſhall ever pray for Your <hi>Maieſties</hi> happy eſtabliſhment, and long and proſperous <hi>Reigne.</hi>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>This Petition was delivered to His Majesty, on Saturday July <hi>17.</hi> by two of the ſequeſtred Clergy, imployed by others of their Brethren to proſecute this buſineſs. His Majesty very graciouſly expreſſed himſelfe how deeply ſenſible he was of their condition, and bid them reſt aſſured, that whatſoever was in his power for their reliefe, ſhould not be wanting; but for the pre<g ref="char:EOLhyphen"/>ſent all that he could doe, was to recommend the Petition to the Generall and the Commanders of the Army; which accordingly he did both by ſpeciall Meſſengers, and by word of mouth at ſe<g ref="char:EOLhyphen"/>verall times.</p>
+            <p>Hereupon this Petition enſuing was delivered to the Gene<g ref="char:EOLhyphen"/>rall, and Copies thereof left with ſome of the chief Commanders.</p>
+            <floatingText xml:lang="eng" type="petition">
+               <body>
+                  <pb n="1" facs="tcp:114419:2"/>
+                  <head>To His <hi>Excellency</hi> Sir Thomas Fairfax.</head>
+                  <head type="sub">The Humble Petition of many thouſands of the poore <hi>ſequeſtred Clergy</hi> of <hi>England</hi> and <hi>Wales,</hi>
+                  </head>
+                  <opener>Humbly ſheweth,</opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>Hat whereas the eyes of all the oppreſſed people of the <hi>Kingdome</hi> are fixed upon Your <hi>Excellency</hi> and the <hi>Army,</hi> as the great Inſtruments (under <hi>God</hi>) to reſtore them to their legal Rights and Liberties, which they doe juſtly ground upon Your ſeverall Declarations publiſhed to the World.</p>
+                  <p>And whereas your Petitioners (a conſiderable number of the free-born men of this Kingdome) have been for divers yeares outed of their lively-hood and free-holds, contrary to <hi>Magna Charta,</hi> and other <hi>fundamentall Laws of the Land,</hi> by the <hi>arbitrary power</hi> of <hi>Committees;</hi> whoſe proceedings uſually have been by no Rule of any known Law, but by their own wills: of whoſe orders no Re<g ref="char:EOLhyphen"/>cord is kept, nor ſcarce any notes or memorials, whereby it may appeare when, by whom, or for what your Petitioners were removed, the <hi>Committee:</hi> for ſcandalous and for plundered <hi>Miniſters</hi> (by whom the greateſt part are turned out) being grounded not ſo much as upon any <hi>Ordinance</hi> of both Houſes; the moſt of your Petitioners outed for refuſing the <hi>Covenant,</hi> or ad<g ref="char:EOLhyphen"/>hering to the <hi>King</hi> and the <hi>Religion</hi> eſtabliſhed according to their <hi>Judgements</hi> and <hi>Conſciences;</hi> and, of thoſe, diverſe never called to anſwer, ſcarce one had any Articles proved by oath, or other legal proceſſe, and ſome put out upon private information given to the Chair-man Mr. <hi>White:</hi> by which unheard of proceedings not to be paralleld in any age, <hi>Your Petitioners,</hi> who have lived heretofore in good eſteem, according to their Calling, Degrees, Birth and E<g ref="char:EOLhyphen"/>ducation, are reduced to extream miſery and want, with their Wives and chil<g ref="char:EOLhyphen"/>dren, that they muſt either ſtarve or begge, if ſome ſpeedy courſe be not taken for their reliefe. And whereas thoſe, who are put into our places, labour by all meanes to ſtir up the people <hi>to involve this Kingdom in a new warre,</hi> and are generally men <hi>ignorant and unable to inſtruct the People,</hi> and many of them <hi>ſcan<g ref="char:EOLhyphen"/>dalous in their practices,</hi> if impartially examined, and <hi>divers of them bold three or foure of the beſt Benefices,</hi> whileſt divers other <hi>Churches</hi> are <hi>void</hi> and without any conſtant Preacher: And <hi>Your Petitioners</hi> are ready to ſubmit themſelves for their Rights to tryall by the known Lawes of the Land, and if any appear guilty of any <hi>legall ſcandal</hi> (which we know to have been unjuſtly charged upon many, and is a great part of their preſent ſufferings) we ſhall leave them to undergoe the ſevereſt puniſhment and cenſure, which by any known Law can be inflicted.</p>
+                  <p>And foraſmuch as the maine profits of our Benefices conſiſt in the <hi>Harveſt,</hi> which is now at hand; which many of the preſent poſſeſſors, if they could
+<pb n="2" facs="tcp:114419:3"/> receive, would preſently be gone, whereby the burden of the <hi>Cure</hi> will lye up<g ref="char:EOLhyphen"/>on Your Petitioners, having nothing to live upon all the next yeare.</p>
+                  <closer>Your Petitioners therefore Humbly pray, that Your <hi>Excellency</hi> would be pleaſed to make ſtay of the Profits of this Harveſt, in ſuch way as Your <hi>Excellency</hi> ſhall think fit, that ſuch as are charged with any legal ſcandal, may come to a juſt tryal, and both they (if they be found in<g ref="char:EOLhyphen"/>nocent) and the reſt, may enjoy their Rights, and have the benefit of <hi>Subjects,</hi> according to the <hi>known Law</hi> of the Land, and Your Petiti<g ref="char:EOLhyphen"/>oners ſhall ever pray, <hi>&amp;c.</hi>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Upon the delivery of this Petition, the matter was debated at a <hi>Councel of War, July 19.</hi> and afterwards by the Proſecutors of the <hi>Clergy,</hi> and others whom His Majeſty had entruſted herewith, with the <hi>Generall, Lieutenant-Generall, Com<g ref="char:EOLhyphen"/>miſſary-Generall,</hi> and others at ſeverall meetings; And the reſult of all in conclu<g ref="char:EOLhyphen"/>ſion was this:</p>
+            <p>That whereas the <hi>Generall</hi> and his <hi>Councell of War</hi> had reſolved to ſend a Propoſition or <hi>Declaration</hi> to the <hi>Parliament,</hi> that the eſtates of all ſequeſtred per<g ref="char:EOLhyphen"/>ſons ſhould remaine in the hands of the Tenents and occupiers, untill a generall peace be ſettled, That this Propoſition ſhould extend to the <hi>Clergy</hi> as well as others, ſo as to include the Tithes, and all other <hi>Eccleſiaſtical</hi> profits due to them, to remaine in the hands of the <hi>Pariſhioners,</hi> or others their Tenents or occupiers, untill the ſaid <hi>publick ſettlement.</hi> And accordingly the ſaid Declaration was drawn up, and agreed upon by the <hi>Generall</hi> and <hi>Councell of War,</hi> upon <hi>Thurſday, July 22.</hi> to this ef<g ref="char:EOLhyphen"/>fect, viz.</p>
+            <p>
+               <hi>That the eſtates of all perſons, of what rank or condition ſoever, whether real or perſonal, under any ſequeſtration, howſoever or to whomſoever diſ<g ref="char:EOLhyphen"/>poſed, ſhall remaine in the hands of the Tenents, Pariſhioners, or any other perſons from whom they are legally due, untill the general peace be ſettled, and then to be reſtored and accounted for, to thoſe to whom they ſhall be juſtly and legally due.</hi>
+            </p>
+            <p>This Propoſition, which by reaſon of the preſent diſtractions hopning ſince in the <hi>Parliament,</hi> hath been hindred from paſsing by way of <hi>Ordinance,</hi> is thought fit to be now publiſht in regard of the <hi>preſent Harveſt,</hi> as containing a <hi>Declaration</hi> of the ſenſe of the <hi>Army,</hi> grounded upon apparent equity and juſtice, that ſo as well the <hi>Pariſhioners,</hi> as the <hi>Intruders,</hi> and all others whom it doth concerne, may take notice thereof, and conforme themſelves thereunto; and that the Pariſhioners may prevent thereby ſuch further Inconveniences as may happen to them, if they ſhall pay the dues of this Harveſt juſtly belonging to the rightfull <hi>Incumbents,</hi> to any un<g ref="char:EOLhyphen"/>juſt and uſurping <hi>Intruders.</hi> Which that they may be the better fore-warn'd of, they may take notice of His <hi>Majeſties Proclamation</hi> to this purpoſe formerly publiſht by <hi>Royall</hi> authority, and ſtill in force, and now re-printed, as followeth:</p>
+            <floatingText xml:lang="eng" type="proclamation">
+               <body>
+                  <pb facs="tcp:114419:3"/>
+                  <head>
+                     <figure>
+                        <head>C R</head>
+                        <q>HONI SOIT QVI MAL Y PENSE</q>
+                        <figDesc>royal English blazon or coat of arms</figDesc>
+                     </figure> By the KING. ¶A Proclamation againſt the Oppreſsion of the Clergy by the Intruſion of Factious and Schiſ<g ref="char:EOLhyphen"/>maticall Perſons into their Cures, and inverting and detaining their Tithes and Poſſeſsions by Orders of one or both Houſes of Parliament, contrary to all Law and Juſtice.</head>
+                  <p>
+                     <seg rend="decorInit">W</seg>Hereas by the great Charter of the Liberties of England it is provided, that the Church ſhould have all its Rights whole, and Liberties invio<g ref="char:EOLhyphen"/>lable; &amp; amongſt others the Church hath theſe priviledges, That regular<g ref="char:EOLhyphen"/>ly no Eccleſiaſticall Poſſeſſions may be extended, ſeized or ſequeſtred but by the Ordinary, And that Diſtreſſes may not be taken of Lands wherewith Churches have been anciently en<g ref="char:EOLhyphen"/>dowed:
+<pb n="4" facs="tcp:114419:4"/> And that Churches preſentative cannot be filled, and the lawfull Incumbents thereof removed but by the Ordinary, nor the Cure of the Incumbents ſerved by Curats, Lecturers, or others, but by their owne appoint<g ref="char:EOLhyphen"/>ment, or in their default by the appointment of the Ordi<g ref="char:EOLhyphen"/>nary; neither are any of Our Subjects of the Laity by the Common Lawes of Our Realme capable to take or receive Tithes (which are the portion of the Clergy) un<g ref="char:EOLhyphen"/>leſſe by demiſe from them, or ſuch as are appropriate and made Lay-Fee: Nevertheleſſe by colour of Orders or pretended Ordinances of one or both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, the Eſtates Reall and Perſonall as well of Our Clergy as Laity have been and are daily ſeized, ſeque<g ref="char:EOLhyphen"/>ſtred and taken from them, &amp; their Poſſeſſions diſtrained for illegall Taxes and Contributions for ſupporting the Rebellion againſt Vs: Which being clearly againſt law and unwarrantable, We did forbid by Our Proclamati<g ref="char:EOLhyphen"/>on of the ſeventh of <hi>April</hi> laſt, and doe hereby forbid the ſame, under the penalties in that Our Proclamation con<g ref="char:EOLhyphen"/>tained. And whereas divers of Our Clergy eminent for their Piety and Learning, becauſe they publiſh Our law<g ref="char:EOLhyphen"/>full and juſt Commands and Declarations, and will not, againſt the knowne Lawes of the Land and their owne Conſciences, ſubmit to Contributions, nor publikely pray againſt Vs and Our Aſsiſtants, but conform themſelves to the Book of Common Prayer eſtabliſhed by Law, and preach Gods Word according to the purity thereof, and in their Sermons will not teach Sedition, nor will pub<g ref="char:EOLhyphen"/>liſh illegall Commands and Orders for fomenting the unnaturall Warre levied againſt Vs, are ſome of them driven and forced from their Cures and Habitations, ſome others frienced and diſcharged from the exerciſe of their Cures, and perſecuted; and their Curats, if Ortho<g ref="char:EOLhyphen"/>dox, or placed, and others, who are Factious and Schiſ<g ref="char:EOLhyphen"/>matical intruded and put in, to ſow Sedition, and ſeduce Our good Subjects from their obedience, expreſly con<g ref="char:EOLhyphen"/>trary to the Word of God, and the Lawes of the Land; and the Glebes, Tithes, and other emoluments of right
+<pb n="5" facs="tcp:114419:4"/> belonging to ſuch Incumbents as will not conforme to that Faction, are diverted in all Pariſhes where ſuch Ar<g ref="char:EOLhyphen"/>bitrary power prevailes, and diſtributes, part to ſuch la<g ref="char:EOLhyphen"/>cious Curates, and the reſt to the maintenance of this War, againſt Law &amp; the Liberties of the Church: Our Will and Pleaſure therefore is, and We doe hereby ſtraily charge and command all Our Subjects, as well Eccleſiaſticall as Temporall, not to preſume to inter<g ref="char:EOLhyphen"/>meddle in diſcharging or hindering any of Our ſaid Cler<g ref="char:EOLhyphen"/>gie for the cauſe aforeſaid, or any other the like pretences, or any of them from the exerciſe of their Cures and Fun<g ref="char:EOLhyphen"/>ctions, or in diſplacing the ſaid Curats ſubſtituted by them: nor doe preſume to intrude or cauſe any Curats, Lecturers or others, to be intruded or put into ſuch Cures; or to take or diſpoſe the Glebes, Tithes, Fruits or Emoluments belonging to any of Our ſaid Clergy, who are ſo ſilenced, forced from their Cures, and perſe<g ref="char:EOLhyphen"/>cuted as aforeſaid. And We doe hereby require and com<g ref="char:EOLhyphen"/>mand all Our Subjects duly to ſet forth and pay their Tithes to their ſeverall and reſpective lawfull Incum<g ref="char:EOLhyphen"/>bents of their Pariſhes, or to their Farmors, Aſsignes, or Deputies, without any guilt or fraud, and ſo as the ſame may be received and enjoyed by the ſame Incum<g ref="char:EOLhyphen"/>bents, without any diminution, ſubſtraction or diverſion, notwithſtanding any ſequeſtration or pretended Orders or Ordinances, or other command whatſoever of one or both Houſes of Parliament. And if any perſon or per<g ref="char:EOLhyphen"/>ſons whatſoever ſhall preſume to tranſgreſſe this Our Command, We doe hereby declare and ſignifie, That they doe not onely oppugne and infringe the good old Lawes of the Land, and the Liberties of the Church (which all Our Subjects, as well as Our Selfe, are bound to maintaine and obſerve) but doe alſo aſſiſt a Re<g ref="char:EOLhyphen"/>bellion againſt Vs, for which We ſhall proceed againſt them according to Law, as they ſhall be apprehended and brought to the hands of Iuſtice, and will give direction for taking their Lands and Goods into ſafe cuſtody in the meane time.</p>
+                  <pb n="6" facs="tcp:114419:5"/>
+                  <p>And We doe hereby farther ſtraitly command and re<g ref="char:EOLhyphen"/>quire all Church-Wardens, Sideſ-men &amp; Pariſhioners whatſoever, to reſiſt ſuch perſons as ſhall be ſo intruded or put in into any of the Cures aforeſaid, by or upon pre<g ref="char:EOLhyphen"/>text of any ſuch pretended Orders or Ordinances or com<g ref="char:EOLhyphen"/>mands as aforeſaid, and to aſsiſt (as much as in them lyeth) the lawfull Incumbents, their Curats, Farmors, Aſsignes or Deputies, in the receiving, taking and en<g ref="char:EOLhyphen"/>joying the Glebe, Tithes, Fruits and Emoluments to them of right belonging. Willing and commanding all Sheriffes, Mayors, Bayliffes, Iuſtices of Peace, Con<g ref="char:EOLhyphen"/>ſtables, Head-boroughs, and other Our Officers and lo<g ref="char:EOLhyphen"/>ving Subjects whatſoever, upon their Allegiance, and the ſevereſt puniſhment that by the Law may be inflicted upon them, not onely to obey and obſerve carefully theſe Our commands, but to be aiding and aſſiſting to the ut<g ref="char:EOLhyphen"/>moſt of their power to all ſuch perſons as ſhall require their aſſiſtance and protection in this behalfe, and to reſiſt and repell, by force of Armes, all ſuch as ſhall oppoſe this Our Legall command. And Our Will and Pleaſure is, That this Our Proclamation be read in all Churches and Chappells in this Our Kingdome. <hi>Given at Our Court at Oxford, the fifteenth day of May, in the nine<g ref="char:EOLhyphen"/>teenth yeare of Our Reigne.</hi>
+                  </p>
+                  <closer>God ſave the King.</closer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+   </text>
+</TEI>
